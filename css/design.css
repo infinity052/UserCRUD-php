@@ -1,0 +1,29 @@
+body{
+    background-image: url("http://void.hi-res.net/img/social/void2.jpg");
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+.err{
+    color: #ff0000;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bg{
+    background-color : black;
+    
+}
+.label-font{
+    font-size: 20px;
+    font-weight: 700   ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bt:hover{
+    background-color: white;
+}
+.whitecolor{
+    color:white;
+}
